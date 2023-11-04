@@ -1,0 +1,83 @@
+/*********************TAG SELECTOR*******************/
+html{
+    display: table;
+    margin:auto;
+}
+body{
+    align-items: center;
+    background-color: white;
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    
+}
+h1{
+   
+    font-family: "monaco", monospace;
+    font-size: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+p{
+
+     font-family: "roboto";
+     font-size: 20px;
+     text-align: center;
+}
+
+img{
+    height: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+   
+}
+
+
+/*********************CLASS SELECTOR*******************/
+.love {
+    color:#c42a2a;
+}
+
+.obsession {
+    color: #630a10;
+}
+
+.bac {
+    background-color: #fceddf;
+    background-image: url(https://youtu.be/5mdktMXCnH8?si=YkfM4G-vxGRXdJMX);
+    
+    
+}
+.bac:hover {
+    background-color: #fae5cf;
+}
+
+.hate{
+    color: #266327;
+}
+
+.detest{
+    color: #133214 ;
+}
+
+.bro {
+    margin-bottom: 100px;
+    background-color: #d4e0d4;
+}
+.bro:hover {
+background-color: #bed0be;
+}
+
+.circular {
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
